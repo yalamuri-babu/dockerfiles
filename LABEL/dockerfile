@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR= "gan" \
+      LOB="GT" \
+      Location= "NY" 
