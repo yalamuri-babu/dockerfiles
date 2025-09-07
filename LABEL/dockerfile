@@ -1,4 +1,4 @@
 FROM almalinux
-LABEL AUTHOR="gan" \
-      LOB="GT" \
+LABEL AUTHOR="gana"\
+      LOB="GTI"\
       Location="NY"
