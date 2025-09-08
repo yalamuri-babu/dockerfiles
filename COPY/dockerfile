@@ -1,0 +1,4 @@
+FROM centos:8
+RUN yum install nginx -yum
+RUN rm -rf /usr/share/nginx/html/index.html
+COPY htmdir /usr/share/nginx/html/index.html 
