@@ -1,0 +1,2 @@
+FROM almalinux
+ADD https://github.com/yalamuri-babu/terraform-azure-examples/blob/master/code/01-hello-world/main.tf /tmp/
